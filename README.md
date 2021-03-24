@@ -44,11 +44,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ x ] Basic Functionality: https://i.imgur.com/tFLz9Iy.gif
+![Basic Functionality] (https://i.imgur.com/tFLz9Iy.gif)
 
-![ x ] Extra Functionality: https://i.imgur.com/WodNsM2.gif
+![Extra Functionality] (https://i.imgur.com/WodNsM2.gif)
 
-![ x ] Timer Functionality: https://i.imgur.com/nKGKUVa.gif
+![Timer Functionality] (https://i.imgur.com/nKGKUVa.gif)
 
 
 ## Reflection Questions
